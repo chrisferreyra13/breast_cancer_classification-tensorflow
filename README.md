@@ -1,2 +1,2 @@
-# BreastCancerClassification-CustomModel-Keras
+# BreastCancerClassification-CustomModel-TensorFlow/Keras
 IDC (invasive ductal carcinoma) classification with a custom model. TensorFlow/Keras
