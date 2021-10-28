@@ -9,4 +9,4 @@
 **Packages:** pandas, numpy, skimage, tensorflow (2.4.1).
 
 ## Training performance
-![alt text](https://github.com/chrisferreyra13/BreastCancerClassification-CustomModel-TensorFlowKeras/blob/master/train_curves.png "Training Performance")
+![alt text](https://github.com/chrisferreyra13/breast_cancer_classification-tensorflow/blob/master/train_curves.png "Training Performance")
