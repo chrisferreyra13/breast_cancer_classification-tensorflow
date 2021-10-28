@@ -1,4 +1,4 @@
-# BreastCancerClassification-CustomModel-TensorFlow/Keras
+# Breast Cancer Classification
 * IDC (invasive ductal carcinoma) classification with a custom model.
 * TensorFlow/Keras based model.
 * Achieved 80% cancer sensibility and 86% accuracy.
@@ -9,4 +9,4 @@
 **Packages:** pandas, numpy, skimage, tensorflow (2.4.1).
 
 ## Training performance
-![alt text](https://github.com/chrisferreyra13/breast_cancer_classification-tensorflow/blob/master/train_curves.png "Training Performance")
+![alt text](https://github.com/chrisferreyra13/breast_cancer_classification-tensorflow/blob/main/train_curves.png "Training Performance")
